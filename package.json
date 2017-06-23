@@ -1,0 +1,19 @@
+{
+  "name": "vege",
+  "version": "0.0.0",
+  "description": "vege",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvrcgo/vege.git"
+  },
+  "author": "tvrcgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tvrcgo/vege/issues"
+  },
+  "homepage": "https://github.com/tvrcgo/vege#readme"
+}
